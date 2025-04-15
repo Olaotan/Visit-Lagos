@@ -58,6 +58,7 @@ body {
 
 .activity {
     margin: 30px 34px 20px 34px; 
+    border-radius: 5px;
 }
 
 .activity-section h2 {
